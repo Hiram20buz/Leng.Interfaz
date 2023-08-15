@@ -335,15 +335,15 @@
           
           
 ## Participantes
-- José Jaime Ojeda Rodríguez
-- Pantoja Reyes Beny Samuel 19211703
-- Gibrahn Duarte Serrano 18212175
-- Jonathan Lara Segovia
-- López Partida Salvador Eli 19211670
-- Luis Eduardo Aguilar Esponda 20270263
-- Santiago Sanchez Ricardo Rioda
-- Cruz Sosa Aldo
-- MARIA GUADALUPE GANTES 
-- IRVIN MARIN PADILLA
-- JESUS GABRIEL HERNANDEZ ZAMARRIPA
-- SILVERIO ADRIAN ZAMORA ANAYA
+- José Ojeda
+- Pantoja Beny
+- Gibrahn Duarte
+- Jonathan Lara
+- López Partida
+- Luis Eduardo 
+- Santiago Ricardo
+- Cruz Aldo
+- MARIA GUADALUPE 
+- IRVIN MARIN 
+- JESUS GABRIEL 
+- SILVERIO ADRIAN 
